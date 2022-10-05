@@ -216,7 +216,7 @@ const chains: Record<string, string> = {
   trpg: '9527',
   myn: '9999',
   smartbch: '10000',
-  smartbchtest: '10001',
+  // smartbchtest: '10001',
   gen: '10101',
   wagmi: '11111',
   shyftt: '11437',
@@ -333,6 +333,7 @@ const chains: Record<string, string> = {
   ntt: '197710212030',
   'ntt-haradev': '197710212031',
   mole: '6022140761023',
+  ethw: '10001',
 }
 
 export default chains
